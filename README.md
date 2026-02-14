@@ -1,7 +1,6 @@
-# DevOps Practice 4 · Integración Continua 
-[![web](https://img.shields.io/badge/web-blue)](https://github.com/Alb3rtsonTL/DevOps-Practice-4)
+# DevOps Practice 4 · Integración Continua [![DevOps](https://img.shields.io/badge/web-blue)](https://github.com/Alb3rtsonTL/DevOps-Practice-4)
 
-![Info](https://img.shields.io/badge/type-DevOps%20Practice-white)
+![Info](https://img.shields.io/badge/type-%20Practice-white)
 ![CI](https://img.shields.io/badge/GitHub%20Actions-Active-brightgreen)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.1-brightgreen)](https://github.com/Alb3rtsonTL/DevOps-Practice-4)
